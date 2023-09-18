@@ -13,3 +13,6 @@ Materials used,
 
 
 ![UNO - Connection](https://github.com/KRISHNA-663/AgroNet/assets/93438911/7bfe1e85-f04a-41ab-812f-69cc3021bb33)
+
+![Soil](https://github.com/KRISHNA-663/AgroNet/assets/93438911/12879998-ee43-4002-9842-7b0ff08fff1c)
+
