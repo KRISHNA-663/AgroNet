@@ -16,3 +16,6 @@ Materials used,
 
 ![Soil](https://github.com/KRISHNA-663/AgroNet/assets/93438911/12879998-ee43-4002-9842-7b0ff08fff1c)
 
+![Wi-Fi module](https://github.com/KRISHNA-663/AgroNet/assets/93438911/7bfceeb4-1415-4da5-a020-32c98b8e26e1)
+
+
