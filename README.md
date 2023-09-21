@@ -18,4 +18,6 @@ Materials used,
 
 ![Wi-Fi module](https://github.com/KRISHNA-663/AgroNet/assets/93438911/7bfceeb4-1415-4da5-a020-32c98b8e26e1)
 
+![Uno-output](https://github.com/KRISHNA-663/AgroNet/assets/93438911/712c3edf-3440-45e6-b507-cc71d5155b8e)
+
 
