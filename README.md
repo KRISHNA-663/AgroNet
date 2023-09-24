@@ -1,9 +1,11 @@
 # AgroNet
 A repo for the AgroNet project which is basically an Iot implementaion and a software solution.
 
-Here, I have attached the link below,
+Here, I have attached the links below,
 
-[PDF-LINK](https://drive.google.com/file/d/1FeDWGI2GtCCQ6GxvireHW_XKeTAJmTvh/view?usp=sharing)
+[IDEA PRESENTATION-LINK](https://drive.google.com/file/d/1FeDWGI2GtCCQ6GxvireHW_XKeTAJmTvh/view?usp=sharing)
+
+[ABSTRACT-LINK](https://drive.google.com/file/d/1b5XukFOHC8vxv84uGxiSXfJGChcNkTjr/view?usp=sharing)
 
 Materials used,
 * Arduino uno board with cable
