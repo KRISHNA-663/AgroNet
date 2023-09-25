@@ -7,7 +7,7 @@ Here, I have attached the links below,
 
 [ABSTRACT-LINK](https://drive.google.com/file/d/1b5XukFOHC8vxv84uGxiSXfJGChcNkTjr/view?usp=sharing)
 
-[ABSTRACT-LINK](https://drive.google.com/file/d/1b5XukFOHC8vxv84uGxiSXfJGChcNkTjr/view?usp=sharing)
+[WRITEUP-LINK](https://drive.google.com/file/d/1NBSqsZ3PbnMzzofPnFG0XC9NqUdZ6n7u/view?usp=sharing)
 
 Materials used,
 * Arduino uno board with cable
