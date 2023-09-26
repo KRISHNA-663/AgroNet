@@ -24,6 +24,8 @@ Materials used,
 
 ![leaf-dataset](https://github.com/KRISHNA-663/AgroNet/assets/93438911/36ef47dd-37f8-4c90-b214-885ffef2e8f5)
 
+![Graph](https://github.com/KRISHNA-663/AgroNet/assets/93438911/c4552b08-8b78-4c82-82ed-a9a1f3a23bd2)
+
 ![Uno-output](https://github.com/KRISHNA-663/AgroNet/assets/93438911/712c3edf-3440-45e6-b507-cc71d5155b8e)
 
 
