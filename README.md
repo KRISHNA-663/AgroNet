@@ -26,6 +26,8 @@ Materials used,
 
 ![Graph](https://github.com/KRISHNA-663/AgroNet/assets/93438911/c4552b08-8b78-4c82-82ed-a9a1f3a23bd2)
 
+![Thingspeak](https://github.com/KRISHNA-663/AgroNet/assets/93438911/32cefa28-05e0-4eb6-af6b-dfd2dd205629)
+
 ![Uno-output](https://github.com/KRISHNA-663/AgroNet/assets/93438911/712c3edf-3440-45e6-b507-cc71d5155b8e)
 
 
