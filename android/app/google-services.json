@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871444489885",
+    "project_id": "agronet-6603",
+    "storage_bucket": "agronet-6603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871444489885:android:7dc50df39be2b310825674",
+        "android_client_info": {
+          "package_name": "com.example.agro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Dy26_Lf8LeXFzdarq7iaotow-OM-Maw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
