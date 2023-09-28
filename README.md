@@ -3,6 +3,8 @@ A repo for the AgroNet project which is basically an Iot implementaion and a sof
 
 Here, I have attached the links below,
 
+Entire Flutter code is available in master branch.
+
 [IDEA PRESENTATION-LINK](https://drive.google.com/file/d/1olk-wAV2zQO5Y5FrKgHU3j47_5uyxtoi/view?usp=sharing)
 
 [ABSTRACT-LINK](https://drive.google.com/file/d/1b5XukFOHC8vxv84uGxiSXfJGChcNkTjr/view?usp=sharing)
