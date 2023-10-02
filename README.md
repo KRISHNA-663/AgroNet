@@ -1,7 +1,7 @@
 # AgroNet
 A repo for the AgroNet project which is basically an Iot implementaion and a software solution.
 
-Here, I have attached the links below,
+Here, I have attached the links below:
 
 Entire Flutter code, images of the app is available in [agro-branch](https://github.com/KRISHNA-663/AgroNet/tree/agro)
 
