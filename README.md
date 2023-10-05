@@ -12,6 +12,9 @@ A new Flutter project for empowering agriculture.
 
 ![Home](https://github.com/KRISHNA-663/AgroNet/assets/93438911/d0e01259-7066-4aaa-813f-34240779f865)
 
+![Cam](https://github.com/KRISHNA-663/AgroNet/assets/93438911/59c74965-b116-4515-923b-7393b3517e89)
+
+
 ![Stock](https://github.com/KRISHNA-663/AgroNet/assets/93438911/f1d1cbd7-f9ae-497a-9edc-0d6e0b72379b)
 
 ![Profile](https://github.com/KRISHNA-663/AgroNet/assets/93438911/89313131-4657-429a-9f49-d58a03757de4)
