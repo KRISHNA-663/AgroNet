@@ -5,6 +5,8 @@ Here, I have attached the links below:
 
 The developing Flutter code, UI of the app is available in [agro-branch](https://github.com/KRISHNA-663/AgroNet/tree/agro)
 
+For explanation do watch this video -> [YOUTUBE](https://youtu.be/gxwPXkqN0QU)
+
 [IDEA PRESENTATION-LINK](https://drive.google.com/file/d/1olk-wAV2zQO5Y5FrKgHU3j47_5uyxtoi/view?usp=sharing)
 
 [ABSTRACT-LINK](https://drive.google.com/file/d/1b5XukFOHC8vxv84uGxiSXfJGChcNkTjr/view?usp=sharing)
