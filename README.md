@@ -1,4 +1,4 @@
-# AgroNet
+# AgroNet - Empowering Farmers
 A repo for the AgroNet project which is basically an Iot implementaion and a software solution.
 
 Here, I have attached the links below:
