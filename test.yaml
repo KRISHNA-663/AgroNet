@@ -7,4 +7,4 @@ execution:
 scenarios:
   quick-test:
     requests:
-    -https://blazedemo.com
+    -https://google.com
