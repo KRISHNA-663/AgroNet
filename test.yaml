@@ -7,4 +7,4 @@ execution:
 scenarios:
   quick-test:
     requests:
-    -https://stackoverflow.com
+    -https://google.com
